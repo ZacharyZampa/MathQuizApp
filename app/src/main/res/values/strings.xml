@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="start">Start Game</string>
+    <string name="restart">Play Again</string>
+</resources>
